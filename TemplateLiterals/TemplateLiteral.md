@@ -1,0 +1,1 @@
+# Template literals là các chuỗi ký tự được giới hạn bằng dấu backtick (`), cho phép tạo các chuỗi nhiều dòng, chèn biến vào chuỗi thông qua các biểu thức nhúng, và các cấu trúc đặc biệt gọi là tagged templates.
